@@ -37,5 +37,4 @@ Contains a directory path to where models and their associated outputs are saved
 Contains a series of scripts used for generating noisy functions and synthetic landscapes.
 
 ### main.sh
-This file is used to run .py scripts for generating noisy functions and models. For example, to reproduce a small subset of the noisy functions within `inputs/initial_conditions/random`, uncomment and run the functions
-`copy_config` and `run_random_noise`.
+This file is used to run .py scripts for generating noisy functions and models. For example, to reproduce a small subset of the noisy functions within `inputs/initial_conditions/random`, uncomment the calls to functions `copy_config` and `run_random_noise`, and run `bash main.sh` from your terminal.
