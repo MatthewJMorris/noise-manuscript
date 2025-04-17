@@ -7,8 +7,17 @@ Something not clear about how to use this code? Interested in working with me? E
 
 Please respect the user license associated with this code. You should cite the associated manuscript (DOI: XXX) in any research produced using the materials provided herein.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b7d0476e-4c60-4bb6-8760-df7e3d2189aa" width=60% height=60%>
+</p>
+
+*An example of a typical noisy function with red noise characteristics; spectral power proportional to wavenumber* $k^{-2}$ *, that can be generated from code within this repository.*
+
+
 ## Software Languages and Requisites
 The code in this directory is written in Python and bash. Code was generated using an Ubuntu OS and Python v3.10.13. Landscape evolution models were generated using the [Landlab](https://landlab.csdms.io/) surface process package version 2.7.0.
+
+It is recommended to install required software using a package manager, such as conda.
 
 ## Workflow
 This repository contains 4 directories and a `main.sh` file.
