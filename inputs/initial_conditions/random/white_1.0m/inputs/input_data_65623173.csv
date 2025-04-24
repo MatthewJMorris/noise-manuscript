@@ -1,0 +1,2 @@
+noise_type,width,height,max_amplitude,seed
+random,100,100,1.0,65623173

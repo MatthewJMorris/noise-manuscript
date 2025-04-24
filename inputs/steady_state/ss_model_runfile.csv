@@ -1,0 +1,2 @@
+initial_condition_file, forward_model_input_file
+inputs/initial_conditions/random/red_1.0m/random_red_1.0m_1.npy,inputs/steady_state/forward_model_inputs.csv
