@@ -1,5 +1,5 @@
 # noise-manuscript
-The code provided in this repository relates to the manuscript entitled "Impact of noise on landscape evolution and metrics from Stream Power models". It is designed to:
+The code provided in this repository relates to the manuscript entitled "Impact of noise on landscapes and metrics generated with Stream Power models". It is designed to:
 1. Provide a library of noisy functions (and associated code to generate such functions) with different spectral properties that can be used within landscape evolution models
 2. Provide a basic working example of code used to generate models within the aforementioned publication
 
