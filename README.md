@@ -38,3 +38,10 @@ Contains a series of scripts used for generating noisy functions and synthetic l
 
 ### main.sh
 This file is used to run .py scripts for generating noisy functions and models. For example, to reproduce a small subset of the noisy functions within `inputs/initial_conditions/random`, uncomment the calls to functions `copy_config` and `run_random_noise`, and run `bash main.sh` from your terminal.
+
+## Example Usage
+A straightforward way to download the library of noisy functions and associated code for your own usage is to clone this repository using git:
+
+`git clone https://github.com/MatthewJMorris/noise-manuscript.git /path/to/your/directory`
+
+Alternatively, you can click on the repository release and download it using the GitHub interface.
