@@ -15,7 +15,7 @@ Please respect the user license associated with this code. You should cite the a
 
 
 ## Software Languages and Requisites
-The code in this directory is written in Python and bash. Code was generated using an Ubuntu OS and Python v3.10.13. Landscape evolution models were generated using the [Landlab](https://landlab.csdms.io/) surface process package version 2.7.0.
+The code in this directory is written in Python and bash. Code was generated using an Ubuntu OS and Python v3.10.13, including numpy v1.26.2. Landscape evolution models were generated using the [Landlab](https://landlab.csdms.io/) surface process package version 2.7.0. Note I have found that using different versions of software packages (e.g. numpy) can produce different results within computer precision.
 
 It is recommended to install required software using a package manager, such as conda.
 
