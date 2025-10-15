@@ -45,3 +45,7 @@ A straightforward way to download the library of noisy functions and associated 
 `git clone https://github.com/MatthewJMorris/noise-manuscript.git /path/to/your/directory`
 
 Alternatively, you can click on the repository release and download it using the GitHub interface.
+
+To install the required dependencies in a conda environment:
+
+`conda env create -f environment.yml`
