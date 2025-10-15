@@ -1,0 +1,14 @@
+name: landscapes-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy=1.26.2
+  - landlab=2.7.0
+  - pandas
+  - ipykernel
+  - pygmt=0.13.0
+  - gmt=6.5.0
+  - sqlite=3.46.1
+  - scipy=1.11.4
