@@ -5,7 +5,7 @@ The code provided in this repository relates to the manuscript entitled "Impact 
 
 Something not clear about how to use this code? Interested in working together? Email me: matthew.morris15@imperial.ac.uk.
 
-Please respect the user license associated with this code. You should cite the associated manuscript (DOI: XXXX) in any research produced using the materials provided herein.
+Please respect the user license associated with this code. You should cite the associated manuscript (DOI: [10.5194/esurf-13-1003-2025](https://doi.org/10.5194/esurf-13-1003-2025)) in any research produced using the materials provided herein.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b7d0476e-4c60-4bb6-8760-df7e3d2189aa" width=60% height=60%>
